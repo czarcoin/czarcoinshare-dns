@@ -1,6 +1,6 @@
 **Notice: Development on this repository is currently on pause during our v3 rearchitecture. Please see [storj/storj](https://github.com/storj/storj) for ongoing v3 development.**
 
-# StorjShare DNS Service
+# CzarcoinShare DNS Service
 
 Manages the storj.farm TLD for farmers on the Storj network
 
